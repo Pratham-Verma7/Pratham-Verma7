@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Pratham verma..... <br>As a Flutter developer and founder of a social networking app with four unique features. I'm skilled in Flutter, Android development, REST APIs, Firebase, and machine learning. My expertise extends to full-stack development in Java and Dart, along with SEO.</h2>
+<h2 align="center">Hi 👋, I'm Pratham verma..... <br>As a Mobile Application Developer and co-founder of a social networking app </h2>
 
 ###
 
